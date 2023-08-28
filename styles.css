@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+img {
+    max-width: 30%;
+}
+
+.no-decoration {
+    list-style-type: none;
+    padding: 10;
+}
